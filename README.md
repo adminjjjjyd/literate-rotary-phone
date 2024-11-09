@@ -6,7 +6,8 @@ The git history is a nearly-blank canvas; there's a single initial commit with t
 
 Everything you do here is contained within this one codespace. There is no repository on GitHub yet. When you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
 
-For more information about the Models available on GitHub Models, check out the [Marketplace](https://github.com/marketplace/models).
+For
+ more information about the Models available on GitHub Models, check out the [Marketplace](https://github.com/marketplace/models).
 
 When bringing your application to scale, you must provision resources and authenticate from Azure, not GitHub. Learn more about deploying models to meet your use case with Azure AI.
 
